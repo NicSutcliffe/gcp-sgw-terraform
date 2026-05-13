@@ -1,10 +1,10 @@
 # gcp-sgw-terraform
 A set of terraform modules for deploying Google Cloud Secure Gateway with a new GCP project &amp; VPC network and an e2-micro vm with nginx + docker + gethomepage.dev  &amp; leveraging Google Cloud DNS for private hostname resolution
 
-# GoChrome Secure Gateway Demo - Homepage Dashboard
+# Secure Gateway Demo - Homepage Dashboard
 
-**Project**: `gochrome-496112`  
-**Hostname**: `homepage.gochro.me`  
+**Project**: `PROJECT ID`  
+**Hostname**: `PUBLIC HOSTNAME`  
 **Region/Zone**: europe-west2 / europe-west2-a
 
 ---
